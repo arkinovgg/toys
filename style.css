@@ -14,12 +14,7 @@ body {
     text-align: center;
     float: right;
     margin-top: 390px;
-    background-image: url('https://www.bing.com/images/blob?bcid=RLGlPyxjN8QG4-cBY4eg73yWubUy.....7w');
-    background-size: cover;
-    background-position: center;
-    color: transparent;
-    background-clip: text;
-    -webkit-background-clip: text;
+    color: white;
 }
 
 .arrow {
@@ -28,12 +23,7 @@ body {
     margin-left: 380px;
     margin-top: 0;
     cursor: pointer;
-    background-image: url('https://www.bing.com/images/blob?bcid=RLGlPyxjN8QG4-cBY4eg73yWubUy.....7w');
-    background-size: cover;
-    background-position: center;
-    color: transparent;
-    background-clip: text;
-    -webkit-background-clip: text;
+    color: white;
 }
 
 .KokichiBuy {
@@ -188,12 +178,7 @@ article {
     text-align: center;
     float: right;
     margin-top: 390px;
-    background-image: url('https://www.bing.com/images/blob?bcid=RKvYWNJzmcQG4-cBY4eg73yWubUy.....wo');
-    background-size: cover;
-    background-position: center;
-    color: transparent;
-    background-clip: text;
-    -webkit-background-clip: text;
+    color: white;
 }
 
 .arrowNagito {
@@ -202,12 +187,7 @@ article {
     margin-left: 380px;
     margin-top: 0;
     cursor: pointer;
-    background-image: url('https://www.bing.com/images/blob?bcid=RKvYWNJzmcQG4-cBY4eg73yWubUy.....wo');
-    background-size: cover;
-    background-position: center;
-    color: transparent;
-    background-clip: text;
-    -webkit-background-clip: text;
+    color: white;
 }
 
 .mainBuyNagito {
